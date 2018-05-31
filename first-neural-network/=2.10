@@ -1,0 +1,2 @@
+Requirement already satisfied: Jinja2 in /home/amira/miniconda2/lib/python2.7/site-packages (2.9.5)
+Requirement already satisfied: MarkupSafe>=0.23 in /home/amira/miniconda2/lib/python2.7/site-packages (from Jinja2) (1.0)
